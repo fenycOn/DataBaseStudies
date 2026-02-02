@@ -90,23 +90,22 @@ DELETE FROM Pessoa WHERE ID = 1;
 
 
 ## Desafio: Instituto do Coração Zurique 
-![cristina-yang](img.greys.jpg)
 
 ### Contexto-Problema
 
-O consultório de Cristina Yang era conhecido por sua eficiência implacável e sua abordagem meticulosa para lidar com todos os aspectos do trabalho. Desde a precisão cirúrgica até a organização dos registros dos pacientes, nada escapava ao olhar afiado da Dra. Yang.
+O consultório de Lee Chang era conhecido por sua eficiência implacável e sua abordagem meticulosa para lidar com todos os aspectos do trabalho. Desde a precisão cirúrgica até a organização dos registros dos pacientes, nada escapava ao olhar afiado da Dra. Chang.
 
 Certo dia, ao observar a bagunça aparente na mesa da recepcionista, Cristina decidiu intervir. Com um olhar penetrante, ela abordou a funcionária responsável pela organização de sua agenda.
 
-"Francyne, precisamos ter uma conversa sobre a maneira como estamos gerenciando os dados dos nossos pacientes aqui. Não podemos nos dar ao luxo de perder tempo procurando números de telefone, buscar por informações importantes ou se quer correr risco de perder os dados de nossos pacientes por algum erro inesperado."
+"Maria, precisamos ter uma conversa sobre a maneira como estamos gerenciando os dados dos nossos pacientes aqui. Não podemos nos dar ao luxo de perder tempo procurando números de telefone, buscar por informações importantes ou se quer correr risco de perder os dados de nossos pacientes por algum erro inesperado."
 
-Francyne, acostumada com a abordagem direta da Dra. Yang, assentiu, pronta para ouvir as instruções.
+Maria, acostumada com a abordagem direta da Dra. Chang, assentiu, pronta para ouvir as instruções.
 
 "A partir de agora, quero que todos os nossos contatos sejam digitalizados e organizados em um banco de dados acessível a todos do Instituo Zurique. Nada de agendas desorganizadas ou papéis perdidos! Quero eficiência, quero precisão."
 
-Francyne absorveu as palavras de sua chefe, reconhecendo a importância da mudança. "Entendi, Dra. Yang. Vou começar a digitalizar imediatamente e garantir que todos os contatos estejam devidamente catalogados e fiquem seguros e salvos em um Banco de Dados."
+Maria absorveu as palavras de sua chefe, reconhecendo a importância da mudança. "Entendi, Dra. Chang. Vou começar a digitalizar imediatamente e garantir que todos os contatos estejam devidamente catalogados e fiquem seguros e salvos em um Banco de Dados."
 
-Cristina Yang sorriu satisfeita. "Ótimo. Lembre-se, a organização é a chave para o sucesso. Não podemos nos dar ao luxo de cometer erros quando se trata da saúde e do bem-estar de nossos pacientes."
+Lee Chang sorriu satisfeita. "Ótimo. Lembre-se, a organização é a chave para o sucesso. Não podemos nos dar ao luxo de cometer erros quando se trata da saúde e do bem-estar de nossos pacientes."
 
 ### Instruções
 
